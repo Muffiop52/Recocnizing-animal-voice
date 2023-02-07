@@ -1,0 +1,18 @@
+body{ 
+    font-family: 'Special Elite',cursive;
+    background-color: cornsilk;
+}
+
+.header_div{
+    background: azure;
+    color: blueviolet;
+}
+
+.header_div p{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkcyan;
+    letter-spacing: 2px;
+    font-size: 10px;
+    font-weight: bold;
+}
